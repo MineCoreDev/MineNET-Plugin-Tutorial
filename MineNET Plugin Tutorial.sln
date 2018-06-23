@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreatePlugin", "CreatePlugin\CreatePlugin.csproj", "{EAD2410B-39D1-4B51-98BA-3ACB25519C33}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PluginTemplate", "PluginTemplate\PluginTemplate.csproj", "{FD000CDB-BCF1-4FC0-A25A-415ECD9B8AA2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{EAD2410B-39D1-4B51-98BA-3ACB25519C33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{EAD2410B-39D1-4B51-98BA-3ACB25519C33}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{EAD2410B-39D1-4B51-98BA-3ACB25519C33}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{EAD2410B-39D1-4B51-98BA-3ACB25519C33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD000CDB-BCF1-4FC0-A25A-415ECD9B8AA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD000CDB-BCF1-4FC0-A25A-415ECD9B8AA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD000CDB-BCF1-4FC0-A25A-415ECD9B8AA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD000CDB-BCF1-4FC0-A25A-415ECD9B8AA2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
